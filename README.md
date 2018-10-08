@@ -31,3 +31,7 @@ User inputs all travel details | Make selections in all input fields available |
 Visit the website at: https://joy-vivika.github.io/Fika-Eazy/
 
 ## LICENSE:
+MIT License
+
+Copyright (c) 2018 FikaEazy
+
