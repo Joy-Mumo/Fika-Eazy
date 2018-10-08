@@ -28,6 +28,6 @@ User inputs their mode of transport | Select mode of transport | ***********
 User inputs all travel details | Make selections in all input fields available | Travel information, i.e., estimated fare, time and stage
 
 ## LIVE LINK:
-Visit the website at: ******
+Visit the website at: https://joy-vivika.github.io/Fika-Eazy/
 
 ## LICENSE:
