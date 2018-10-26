@@ -28,9 +28,8 @@ body{
 }
 #three3{
     text-align: center;
-    width: 1300px;
+    width: 100%;
     padding: 20px;
-    background-image: url("https://raw.githubusercontent.com/Joy-Vivika/Fika-Eazy/gh-pages/images/matatu.jpg");
     color:black;
 }
 #diff{
