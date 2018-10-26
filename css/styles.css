@@ -50,8 +50,7 @@ body{
     
     width: 100%;
     padding: 50px;
-    border:  10px solid;
-    border-radius: 40px;
+    margin:0px;
     background-color: black;
     color:teal; 
     font-family: fantasy;
